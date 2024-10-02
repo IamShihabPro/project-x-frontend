@@ -1,0 +1,20 @@
+/* TextEditor.css */
+.quill-editor {
+    /* background-color: #1f2937; bg-gray-900 */
+    color: white; /* Text color */
+  }
+  
+  .quill-editor .ql-editor {
+    color: white; /* Ensure the text color is white */
+  }
+  
+  /* Optionally, style the toolbar for consistency */
+  .ql-toolbar {
+    background-color: #1f2937; /* Same as the editor background */
+    border: none; /* Remove any borders */
+  }
+  
+  .ql-toolbar .ql-stroke {
+    stroke: white; /* Set the stroke color of toolbar icons */
+  }
+  
